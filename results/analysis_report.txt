@@ -1,0 +1,21 @@
+Scientific Data Analyzer
+========================
+
+Descriptive Statistics:
+Mean: 27.7836
+Std: 4.9359
+Min: 18.5979
+Max: 35.8616
+Count: 30.0000
+
+Regression Parameters:
+Slope: 0.5332
+Intercept: 19.5188
+Regression Equation: y = 0.5332x + 19.5188
+
+Model Performance:
+SSE: 67.5074
+MSE: 2.2502
+RMSE: 1.5001
+MAE: 1.2500
+R2: 0.9045
